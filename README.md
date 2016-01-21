@@ -1,2 +1,2 @@
-# facetwp-cmb2
-FacetWP integration with CMB2
+# facetwp-pods
+FacetWP integration with the Pods Framework
